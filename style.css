@@ -1,7 +1,6 @@
 *,
 *::before,
 *::after {
-    border: 0.5px solid red;
     box-sizing: border-box;
 }
 
